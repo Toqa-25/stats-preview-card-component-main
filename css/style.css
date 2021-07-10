@@ -78,11 +78,11 @@ body{
     z-index: 1;
   }
 .component .content .text h1,
-.component .content .text span h2
+.component .content .text  h2
 {
 color:var(--main-heading-stats);
 }
-.component .content .text h1 span{
+.component .content .text h1 div{
 color:var(--accent);
 }
 .component .content .text p{
